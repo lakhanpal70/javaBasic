@@ -13,6 +13,7 @@ public class MathClassMethod {
         System.out.println(Math.floor(5.9));
         System.out.println(Math.ceil(5.9));
         System.out.println(Math.round(6.5));
+        System.out.println(Math.round(0.5));
     }
     public static int getRandom(int a,int b){
        // return (int)(Math.random()*6)+1;
